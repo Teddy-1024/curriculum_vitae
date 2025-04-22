@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.9)  20 FEB 2025 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.9)  11 APR 2025 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,17 +294,17 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  8127 strings out of 480204
  129400 string characters out of 5895011
- 435012 words of memory out of 5000000
+ 436003 words of memory out of 5000000
  26023 multiletter control sequences out of 15000+600000
  470806 words of font info for 33 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 60i,8n,63p,244b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,63p,254b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/teddy/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
 pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on cv.pdf (1 page, 73640 bytes).
+Output written on cv.pdf (1 page, 73510 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
